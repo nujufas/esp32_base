@@ -1735,6 +1735,22 @@ CONFIG_DEVICE_DEFENDER_LOG_INFO=y
 # end of Device Defender
 
 #
+# AWS MQTT File Streams
+#
+
+#
+# Logging
+#
+CONFIG_AWS_OTA_LOG_ERROR=y
+CONFIG_AWS_OTA_LOG_WARN=y
+CONFIG_AWS_OTA_LOG_INFO=y
+# CONFIG_AWS_OTA_LOG_DEBUG is not set
+# end of Logging
+
+# CONFIG_MQTT_STREAMS_USE_CUSTOM_CONFIG is not set
+# end of AWS MQTT File Streams
+
+#
 # corePKCS11
 #
 

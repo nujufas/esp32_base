@@ -9,7 +9,7 @@ list(APPEND EXTRA_COMPONENT_DIRS
                         "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/Device-Defender-for-AWS-IoT-embedded-sdk"
                         "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/common/posix_compat"
                         "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/backoffAlgorithm"
-                        # "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/aws-iot-core-mqtt-file-streams-embedded-c"
+                        "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/aws-iot-core-mqtt-file-streams-embedded-c"
                         "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/corePKCS11"
                         "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/coreMQTT-Agent"
                         "${CMAKE_CURRENT_LIST_DIR}/components/esp-aws-iot/libraries/coreMQTT"
